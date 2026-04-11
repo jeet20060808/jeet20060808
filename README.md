@@ -1,4 +1,4 @@
-# 🧑🏻‍🦱 About Me:
+ # 🧑🏻‍🦱 About Me:
 🔭 I’m currently working on 2 projects – MEDGUARD and HELIO (Clinic Patient Management System)<br><br>👯 I’m looking to collaborate on React-based web apps, Firebase projects, and innovative healthcare solutions<br><br>🌱 I’m currently learning advanced React, Firebase (Auth, Firestore), and building scalable full-stack apps/websites<br><br>💻 I use AI tools to speed up development, generate ideas, and optimize code<br><br>⚡ Fun fact: I build projects fast by combining AI + React + Firebase 🚀.....<br>
 
 
